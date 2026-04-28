@@ -1,4 +1,4 @@
- <img width="1254" height="1254" alt="ChatGPT Image 28 abr 2026, 11_17_51" src="https://github.com/user-attachments/assets/cd4bd64a-015f-4014-a7ec-59ec38fee338" />
+<img width="1254" height="718" alt="ChatGPT Image 28 abr 2026, 11_17_51" src="https://github.com/user-attachments/assets/7b36d80b-566c-4561-b176-a6adcdd09e26" />
 ## Hey! I'm Jose
 
  - I am a Frontend Developer from Guatemala, City
