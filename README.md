@@ -7,4 +7,3 @@
  ## GitHubs Stats
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseVasquez9587&theme=dark-minimalist)](https://git.io/streak-stats)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
